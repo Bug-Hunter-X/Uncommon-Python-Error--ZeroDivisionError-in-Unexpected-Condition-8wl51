@@ -1,0 +1,1 @@
+This repository demonstrates a common yet often overlooked error in Python: the ZeroDivisionError. The bug.py file contains a function that can throw a ZeroDivisionError under a specific, potentially unexpected condition.  The bugSolution.py shows how to mitigate this error using proper exception handling and input validation.
